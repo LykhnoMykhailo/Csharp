@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Csharp\\Csharp\\Practical1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{898CF964-2823-4441-A8FA-09AB3A55287B}|Task1\\Task1.csproj|c:\\users\\admin\\desktop\\csharp\\csharp\\practical1\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{898CF964-2823-4441-A8FA-09AB3A55287B}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1DB75A70-6BA3-4CD7-B8E9-13DADEAD5039}|Task3\\Task3.csproj|c:\\users\\admin\\desktop\\csharp\\csharp\\practical1\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DB75A70-6BA3-4CD7-B8E9-13DADEAD5039}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D36DAE86-BB50-4225-9722-2C7D2BC17FB8}|Task4\\Task4.csproj|c:\\users\\admin\\desktop\\csharp\\csharp\\practical1\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D36DAE86-BB50-4225-9722-2C7D2BC17FB8}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4409241-5AE4-4149-A86F-162CDC73F25E}|lab1\\Task1.csproj|c:\\users\\admin\\desktop\\csharp\\csharp\\practical1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4409241-5AE4-4149-A86F-162CDC73F25E}|lab1\\Task1.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Csharp\\Csharp\\Practical1\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Csharp\\Csharp\\Practical1\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:30:54.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Task4.csproj",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Csharp\\Csharp\\Practical1\\Task4\\Task4.csproj",
               "RelativeDocumentMoniker": "Task4\\Task4.csproj",
@@ -58,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Task3.csproj",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Csharp\\Csharp\\Practical1\\Task3\\Task3.csproj",
               "RelativeDocumentMoniker": "Task3\\Task3.csproj",
@@ -70,19 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Csharp\\Csharp\\Practical1\\lab1\\Program.cs",
-              "RelativeDocumentMoniker": "lab1\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Csharp\\Csharp\\Practical1\\lab1\\Program.cs",
-              "RelativeToolTip": "lab1\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAiwAwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T12:25:18.763Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Csharp\\Csharp\\Practical1\\Task5\\Program.cs",
               "RelativeDocumentMoniker": "Task5\\Program.cs",
@@ -94,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Csharp\\Csharp\\Practical1\\Task2\\Program.cs",
               "RelativeDocumentMoniker": "Task2\\Program.cs",
@@ -106,20 +107,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Csharp\\Csharp\\Practical1\\Task3\\Program.cs",
               "RelativeDocumentMoniker": "Task3\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Csharp\\Csharp\\Practical1\\Task3\\Program.cs",
               "RelativeToolTip": "Task3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T12:51:07.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T12:51:07.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Csharp\\Csharp\\Practical1\\Task4\\Program.cs",
               "RelativeDocumentMoniker": "Task4\\Program.cs",
@@ -131,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Task2.csproj",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Csharp\\Csharp\\Practical1\\Task2\\Task2.csproj",
               "RelativeDocumentMoniker": "Task2\\Task2.csproj",
