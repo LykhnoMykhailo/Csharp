@@ -62,20 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Task5_StudentGroups_Tests.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Csharp\\Csharp\\Practical1\\Practical1Test\\Task5_StudentGroups_Tests.cs",
-              "RelativeDocumentMoniker": "Practical1Test\\Task5_StudentGroups_Tests.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Csharp\\Csharp\\Practical1\\Practical1Test\\Task5_StudentGroups_Tests.cs",
-              "RelativeToolTip": "Practical1Test\\Task5_StudentGroups_Tests.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T09:13:25.026Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -110,8 +98,7 @@
               "RelativeToolTip": "Practical1Test\\Task1_EvenNumber_Tests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T09:09:13.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T09:09:13.614Z"
             },
             {
               "$type": "Document",
@@ -121,10 +108,26 @@
               "RelativeDocumentMoniker": "Task5\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\Csharp\\Csharp\\Practical1\\Task5\\Program.cs",
               "RelativeToolTip": "Task5\\Program.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T12:51:19.627Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task5_StudentGroups_Tests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Csharp\\Csharp\\Practical1\\Practical1Test\\Task5_StudentGroups_Tests.cs",
+              "RelativeDocumentMoniker": "Practical1Test\\Task5_StudentGroups_Tests.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Csharp\\Csharp\\Practical1\\Practical1Test\\Task5_StudentGroups_Tests.cs",
+              "RelativeToolTip": "Practical1Test\\Task5_StudentGroups_Tests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T09:13:25.026Z"
             },
             {
               "$type": "Document",
@@ -221,10 +224,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-09-17T12:49:16.358Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
